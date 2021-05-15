@@ -1,0 +1,2665 @@
+{
+  "data": [
+    {
+      "type": "product",
+      "id": "zara_05899169i2020_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Light blue",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_brand_formatted": "Zara",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-denim"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-day-dresses"
+        ],
+        "e_color": "blue",
+        "e_color_parent": "blue",
+        "e_free_shipping_currency": "USD",
+        "e_free_shipping_over": [
+          0
+        ],
+        "e_friendly_id": "light-blue-zara-combination-denim-dress-05899169i2020-zara",
+        "e_friendly_ids": [
+          "light-blue-zara-combination-denim-dress-05899169i2020-zara"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/main/1x/230-345/light-blue-zara-combination-denim-dress-1.jpg",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/main/2x/460-690/light-blue-zara-combination-denim-dress-1.jpg",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/main/3x/563-845/light-blue-zara-combination-denim-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/main/1x/230-345/light-blue-zara-combination-denim-dress-2.jpg",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/main/2x/460-690/light-blue-zara-combination-denim-dress-2.jpg",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/main/3x/563-845/light-blue-zara-combination-denim-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/main/1x/230-345/light-blue-zara-combination-denim-dress-3.jpg",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/main/2x/460-690/light-blue-zara-combination-denim-dress-3.jpg",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/main/3x/563-845/light-blue-zara-combination-denim-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/main/1x/230-345/light-blue-zara-combination-denim-dress-4.jpg",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/main/2x/460-690/light-blue-zara-combination-denim-dress-4.jpg",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/main/3x/563-845/light-blue-zara-combination-denim-dress-4.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.67,
+          0.67,
+          0.67,
+          0.67
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/main/2x/460-690/light-blue-zara-combination-denim-dress-1.webp",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/main/3x/563-845/light-blue-zara-combination-denim-dress-1.webp",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/main/1x/230-345/light-blue-zara-combination-denim-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/main/2x/460-690/light-blue-zara-combination-denim-dress-2.webp",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/main/3x/563-845/light-blue-zara-combination-denim-dress-2.webp",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/main/1x/230-345/light-blue-zara-combination-denim-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/main/2x/460-690/light-blue-zara-combination-denim-dress-3.webp",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/main/3x/563-845/light-blue-zara-combination-denim-dress-3.webp",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/main/1x/230-345/light-blue-zara-combination-denim-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/main/2x/460-690/light-blue-zara-combination-denim-dress-4.webp",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/main/3x/563-845/light-blue-zara-combination-denim-dress-4.webp",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/main/1x/230-345/light-blue-zara-combination-denim-dress-4.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/size/1200x1200/1200-1200/light-blue-zara-combination-denim-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/thumb/1x/170-255/light-blue-zara-combination-denim-dress-1.jpg",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-1.jpg",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/thumb/2x/340-510/light-blue-zara-combination-denim-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/thumb/1x/170-272/light-blue-zara-combination-denim-dress-2.jpg",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-2.jpg",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/thumb/2x/340-544/light-blue-zara-combination-denim-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/thumb/1x/170-272/light-blue-zara-combination-denim-dress-3.jpg",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-3.jpg",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/thumb/2x/340-544/light-blue-zara-combination-denim-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/thumb/1x/170-272/light-blue-zara-combination-denim-dress-4.jpg",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-4.jpg",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/thumb/2x/340-544/light-blue-zara-combination-denim-dress-4.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/thumb/1x/170-255/light-blue-zara-combination-denim-dress-1.webp",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-1.webp",
+            "https://images.theurge.com/zara/f-v4nq4q0-IWDEPjh28lXevAPRw=/thumb/2x/340-510/light-blue-zara-combination-denim-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/thumb/1x/170-272/light-blue-zara-combination-denim-dress-2.webp",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-2.webp",
+            "https://images.theurge.com/zara/SPKcsUbQ7ohQC0YBHp38bYiiT9M=/thumb/2x/340-544/light-blue-zara-combination-denim-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/thumb/1x/170-272/light-blue-zara-combination-denim-dress-3.webp",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-3.webp",
+            "https://images.theurge.com/zara/6VqMoOmOdoJ1vPaElRV_J2tNwbU=/thumb/2x/340-544/light-blue-zara-combination-denim-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/thumb/1x/170-272/light-blue-zara-combination-denim-dress-4.webp",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/thumb/3x/510-765/light-blue-zara-combination-denim-dress-4.webp",
+            "https://images.theurge.com/zara/xF7wCzXH7hrjvVQNhsQ2eNZ4ovA=/thumb/2x/340-544/light-blue-zara-combination-denim-dress-4.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": true,
+        "e_item_code": "05899169i2020",
+        "e_material": "material-cotton",
+        "e_product_name": "COMBINATION DENIM DRESS",
+        "e_retailer_display_domain": "zara.com",
+        "e_retailer_display_name": "Zara",
+        "e_retailer_facet_name": "Zara",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "zara",
+        "e_retailer_type": "low",
+        "e_returns_period": [
+          30
+        ],
+        "e_shipping_deals": [
+          "free-returns",
+          "free-shipping"
+        ],
+        "e_subcat": [
+          "clothing-dresses-day-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "light-blue-zara-combination-denim-dress-05899169i2020-zara",
+          "en-gb": "light-blue-zara-combination-denim-dress-05899169i2020-zara",
+          "en-nz": "light-blue-zara-combination-denim-dress-05899169i2020-zara",
+          "en-us": "light-blue-zara-combination-denim-dress-05899169i2020-zara",
+          "en-za": "light-blue-zara-combination-denim-dress-05899169i2020-zara"
+        },
+        "friendly_canonical": "light-blue-zara-combination-denim-dress-05899169i2020-zara",
+        "gender": "female",
+        "hreflangs": [
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "05899169-I2020",
+        "long_description": "Mini dress with round neckline and combination long sleeves. Front pockets and self belt. Front metal snap button closure.",
+        "material": "cotton",
+        "product_name": "COMBINATION DENIM DRESS",
+        "retailer_code": "enus-zara",
+        "retailer_price": 89.9,
+        "retailer_url": "https://www.zara.com/us/en/combination-denim-dress-p05899169.html",
+        "sku_code": "05899169-I2020",
+        "updated_at": "2020-10-07T05:14:44.757+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "bf_15143208_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "green",
+        "converted_currency": "USD",
+        "converted_retailer_price": 6197.328344440115,
+        "converted_sale_price": 0,
+        "currency": "GBP",
+        "e_affiliate_url": "https://prf.hn/click/camref:1100laAkR/destination:https%3A%2F%2Fwww.brownsfashion.com%2Fuk%2Fshopping%2Fcrystal-embellished-gown-15143208",
+        "e_brand_formatted": "Alexandre Vauthier",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-gown"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-gowns"
+        ],
+        "e_color": "green",
+        "e_color_parent": "green",
+        "e_friendly_id": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf",
+        "e_friendly_ids": [
+          "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/main/1x/345-345/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/main/3x/800-800/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/main/2x/690-690/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          1
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/main/2x/690-690/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.webp",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/main/1x/345-345/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.webp",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/main/3x/800-800/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/size/1200x1200/1200-1200/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/thumb/1x/170-272/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/thumb/2x/340-544/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/thumb/3x/510-510/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/thumb/1x/170-272/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.webp",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/thumb/3x/510-510/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.webp",
+            "https://images.theurge.com/browns-fashion/fQ3HZ2NwDKUiiLRaVieAOR-0la8=/thumb/2x/340-544/green-alexandre-vauthier-womens-green-crystal-embellished-gown-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15143208",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Womens Green Crystal Embellished Gown",
+        "e_retailer_display_domain": "brownsfashion.com",
+        "e_retailer_display_name": "Browns",
+        "e_retailer_facet_name": "Browns",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "bf",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.brownsfashion.com/customer-service",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.brownsfashion.com/customer-service",
+        "e_subcat": [
+          "clothing-dresses-gowns"
+        ],
+        "friendly_alternates": {
+          "en-au": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf",
+          "en-gb": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf",
+          "en-nz": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf",
+          "en-us": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf",
+          "en-za": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf"
+        },
+        "friendly_canonical": "green-alexandre-vauthier-womens-green-crystal-embellished-gown-15143208-bf",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-zz"
+        ],
+        "item_code": "15143208",
+        "long_description": "Green crystal embellished gown from ALEXANDRE VAUTHIER featuring plunging V-neck, fitted silhouette, ruched detailing, shoulder pads, long sleeves, side slit and concealed fastening.",
+        "product_name": "Womens Green Crystal Embellished Gown",
+        "retailer_code": "engb-browns-fashion",
+        "retailer_price": 4795,
+        "retailer_url": "https://www.brownsfashion.com/uk/shopping/crystal-embellished-gown-15143208",
+        "sku_code": "15143208-5152",
+        "updated_at": "2020-10-05T13:55:07.544+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15215842_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Flace-dress-8-12-years-15215842",
+        "e_brand_formatted": "Dolce & Gabbana",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-lace"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-cocktail-dresses"
+        ],
+        "e_friendly_id": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr",
+        "e_friendly_ids": [
+          "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/main/1x/304-345/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/main/2x/607-690/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/main/3x/800-909/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/main/1x/304-345/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.webp",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/main/2x/607-690/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.webp",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/main/3x/800-909/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/size/1200x1200/1200-1200/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/thumb/1x/170-234/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/thumb/2x/340-468/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/thumb/3x/510-703/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/thumb/1x/170-234/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.webp",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/thumb/2x/340-468/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.webp",
+            "https://images.theurge.com/harrods/CPjCZbd7ZOxkOy8ac5-8OZ4thQc=/thumb/3x/510-703/multi-dolce-gabbana-kids-lace-dress-8-12-years-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15215842",
+        "e_material": "material-lace",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Kids Lace Dress (8-12 Years)",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-cocktail-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr",
+          "en-gb": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr",
+          "en-nz": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr",
+          "en-us": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr",
+          "en-za": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr"
+        },
+        "friendly_canonical": "dolce-gabbana-kids-lace-dress-8-12-years-15215842-hr",
+        "gender": "unisex",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15215842",
+        "long_description": "With an intricate lace overlay, this delicate dress is the perfect piece for your little one on special occasions. Adding to the sophisticated finish, the round neck and puff sleeves give it a regal, princess-worthy feel, while the lined interior slip ensures she is comfortable all day.",
+        "product_name": "Kids Lace Dress (8-12 Years)",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 1237,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/lace-dress-8-12-years-15215842",
+        "sku_code": "15215842-56",
+        "updated_at": "2020-10-05T15:38:52.956+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15425397_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Fharmony-floral-chiffon-gown-15425397",
+        "e_brand_formatted": "Needle & Thread",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-gown"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-gowns"
+        ],
+        "e_color": "floral",
+        "e_color_parent": "floral",
+        "e_friendly_id": "needle-thread-harmony-floral-chiffon-gown-15425397-hr",
+        "e_friendly_ids": [
+          "needle-thread-harmony-floral-chiffon-gown-15425397-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/main/1x/304-345/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/main/2x/607-690/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/main/3x/800-909/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/main/1x/304-345/multi-needle-thread-harmony-floral-chiffon-gown-1.webp",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/main/2x/607-690/multi-needle-thread-harmony-floral-chiffon-gown-1.webp",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/main/3x/800-909/multi-needle-thread-harmony-floral-chiffon-gown-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/size/1200x1200/1200-1200/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/thumb/1x/147-272/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/thumb/2x/295-544/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/thumb/3x/433-816/multi-needle-thread-harmony-floral-chiffon-gown-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/thumb/1x/147-272/multi-needle-thread-harmony-floral-chiffon-gown-1.webp",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/thumb/2x/295-544/multi-needle-thread-harmony-floral-chiffon-gown-1.webp",
+            "https://images.theurge.com/harrods/_ATO5N902jy7xEQ64gNMEKFWRWY=/thumb/3x/433-816/multi-needle-thread-harmony-floral-chiffon-gown-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15425397",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Harmony Floral Chiffon Gown",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-gowns"
+        ],
+        "friendly_alternates": {
+          "en-au": "needle-thread-harmony-floral-chiffon-gown-15425397-hr",
+          "en-gb": "needle-thread-harmony-floral-chiffon-gown-15425397-hr",
+          "en-nz": "needle-thread-harmony-floral-chiffon-gown-15425397-hr",
+          "en-us": "needle-thread-harmony-floral-chiffon-gown-15425397-hr",
+          "en-za": "needle-thread-harmony-floral-chiffon-gown-15425397-hr"
+        },
+        "friendly_canonical": "needle-thread-harmony-floral-chiffon-gown-15425397-hr",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15425397",
+        "long_description": "A vision of delicacy in gathered chiffon tiers and swaying movement, Needle & amp, Threads Harmony gown brings a vintage-meets-bohemian touch to your summer party repertoire. The painterly print takes its inspiration from a pretty wallpaper design dating back to the early 1900s, while a splash of iridescent sequins adds a shimmering contemporary touch.",
+        "product_name": "Harmony Floral Chiffon Gown",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 402,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/harmony-floral-chiffon-gown-15425397",
+        "sku_code": "15425397-54",
+        "updated_at": "2020-10-05T15:51:09.019+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "annt_541756_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Night Sky",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42156&murl=https%3A%2F%2Fwww.anntaylor.com%2Fcitrus-blossom-flutter-sleeve-wrap-dress%2F541756%3FskuId%3D29832712%26defaultColor%3D1362%26prodId%3D541756%26currency%3Dusd",
+        "e_brand_formatted": "Ann Taylor",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-wrap"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-wrap-dresses"
+        ],
+        "e_color": "blue-sky",
+        "e_color_parent": "blue",
+        "e_friendly_id": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt",
+        "e_friendly_ids": [
+          "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/main/1x/280-345/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/main/2x/488-601/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/main/3x/488-601/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.81
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/main/1x/280-345/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.webp",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/main/2x/488-601/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.webp",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/main/3x/488-601/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/size/1200x1200/1200-1200/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/thumb/1x/170-260/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/thumb/2x/340-520/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/thumb/3x/488-601/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/thumb/1x/170-260/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.webp",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/thumb/2x/340-520/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.webp",
+            "https://images.theurge.com/ann-taylor/ChVMJU6PwDscmUgsyaIYVSvaBfk=/thumb/3x/488-601/night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": false,
+        "e_is_free_shipping": false,
+        "e_is_on_sale": true,
+        "e_item_code": "541756",
+        "e_product_name": "Citrus Blossom Flutter Sleeve Wrap Dress",
+        "e_retailer_display_domain": "anntaylor.com",
+        "e_retailer_display_name": "Ann Taylor",
+        "e_retailer_facet_name": "Ann Taylor",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "annt",
+        "e_sales": [
+          "10",
+          "20",
+          "on-sale"
+        ],
+        "e_subcat": [
+          "clothing-dresses-wrap-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt",
+          "en-gb": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt",
+          "en-nz": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt",
+          "en-us": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt",
+          "en-za": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt"
+        },
+        "friendly_canonical": "night-sky-ann-taylor-citrus-blossom-flutter-sleeve-wrap-dress-541756-annt",
+        "gender": "female",
+        "hreflangs": [
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "541756",
+        "long_description": "Our timeless wrap dress gets a warm weather refresh, with summery blossoms and breezy flutter sleeves. V-neck with crossover front. Flutter sleeves. Self tie belt. Ann Taylor Citrus Blossom Flutter Sleeve Wrap Dress",
+        "product_name": "Citrus Blossom Flutter Sleeve Wrap Dress",
+        "retailer_code": "enus-ann-taylor",
+        "retailer_price": 98,
+        "retailer_url": "https://www.anntaylor.com/citrus-blossom-flutter-sleeve-wrap-dress/541756?skuId=29832712&defaultColor=1362&prodId=541756&currency=usd",
+        "sale_price": 75.99,
+        "sku_code": "29832712",
+        "updated_at": "2020-10-05T12:59:12.965+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "beu_31801363398734_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "red",
+        "converted_currency": "USD",
+        "converted_retailer_price": 749.6247006830587,
+        "converted_sale_price": 0,
+        "currency": "GBP",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=43863&murl=https%3A%2F%2Fwww.beulahlondon.com%2Fproducts%2Frohda-red-dallia-floral-midi-dress%3Fvariant%3D31801363398734%26currency%3DGBP%26fo_c%3D3487%26fo_k%3D4f696c21f04e16ac4a57388f078cace9%26fo_s%3Dgooglecsv",
+        "e_brand_formatted": "Beulah",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-silk"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-cocktail-dresses",
+          "clothing|clothing-dresses|clothing-dresses-evening-dresses"
+        ],
+        "e_color": "red",
+        "e_color_parent": "red",
+        "e_friendly_id": "red-beulah-rohda-red-dallia-31801363398734-beu",
+        "e_friendly_ids": [
+          "red-beulah-rohda-red-dallia-31801363398734-beu"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/main/1x/250-345/red-beulah-rohda-red-dallia-1.jpg",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/main/2x/500-690/red-beulah-rohda-red-dallia-1.jpg",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/main/3x/749-1035/red-beulah-rohda-red-dallia-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.72
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/main/1x/250-345/red-beulah-rohda-red-dallia-1.webp",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/main/2x/500-690/red-beulah-rohda-red-dallia-1.webp",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/main/3x/749-1035/red-beulah-rohda-red-dallia-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/size/1200x1200/1200-1200/red-beulah-rohda-red-dallia-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/thumb/1x/170-235/red-beulah-rohda-red-dallia-1.jpg",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/thumb/2x/340-470/red-beulah-rohda-red-dallia-1.jpg",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/thumb/3x/510-704/red-beulah-rohda-red-dallia-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/thumb/1x/170-235/red-beulah-rohda-red-dallia-1.webp",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/thumb/2x/340-470/red-beulah-rohda-red-dallia-1.webp",
+            "https://images.theurge.com/beulah-london/0kyjNEEYBk4avTvlhSQTpFjeQRc=/thumb/3x/510-704/red-beulah-rohda-red-dallia-1.webp"
+          ]
+        ],
+        "e_is_free_returns": false,
+        "e_is_free_shipping": false,
+        "e_item_code": "31801363398734",
+        "e_product_name": "Rohda Red Dallia",
+        "e_retailer_display_domain": "beulahlondon.com",
+        "e_retailer_display_name": "Beulah London",
+        "e_retailer_facet_name": "Beulah London",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "beu",
+        "e_subcat": [
+          "clothing-dresses-cocktail-dresses",
+          "clothing-dresses-evening-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "red-beulah-rohda-red-dallia-31801363398734-beu",
+          "en-gb": "red-beulah-rohda-red-dallia-31801363398734-beu",
+          "en-nz": "red-beulah-rohda-red-dallia-31801363398734-beu",
+          "en-us": "red-beulah-rohda-red-dallia-31801363398734-beu",
+          "en-za": "red-beulah-rohda-red-dallia-31801363398734-beu"
+        },
+        "friendly_canonical": "red-beulah-rohda-red-dallia-31801363398734-beu",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-zz"
+        ],
+        "item_code": "31801363398734",
+        "long_description": "The perfect special occasion style, the Rohda Dress is crafted from luxurious silk crepe de chine. The high ruffled neck and cropped sleeves evoke a Victoriana feel, while the bright red hue and flower and bird print offer a modern update. Style with strappy heeled sandals and classic accessories.",
+        "product_name": "Rohda Red Dallia",
+        "retailer_code": "engb-beulah-london",
+        "retailer_price": 580,
+        "retailer_url": "https://www.beulahlondon.com/products/rohda-red-dallia-floral-midi-dress?variant=31801363398734&currency=GBP&fo_c=3487&fo_k=4f696c21f04e16ac4a57388f078cace9&fo_s=googlecsv",
+        "sku_code": "31801363398734",
+        "updated_at": "2020-10-05T13:04:30.842+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "gs_5765043028122_all",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "USD",
+        "converted_retailer_price": 84.13114558256883,
+        "converted_sale_price": 63.09660572411748,
+        "currency": "AUD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=40714&murl=https%3A%2F%2Fwww.gluestore.com.au%2Fcollections%2Fdresses%2Fproducts%2Faria-midi-dress-in-black",
+        "e_brand_formatted": "Lulu & Rose",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-midi"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-midi-knee-length-dresses"
+        ],
+        "e_color": "black",
+        "e_color_parent": "black",
+        "e_friendly_id": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs",
+        "e_friendly_ids": [
+          "lulu-rose-aria-midi-dress-in-black-5765043028122-gs"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/main/1x/259-345/lulu-rose-aria-midi-dress-in-black-1.jpg",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/main/2x/518-690/lulu-rose-aria-midi-dress-in-black-1.jpg",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/main/3x/776-1035/lulu-rose-aria-midi-dress-in-black-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.75
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/main/1x/259-345/lulu-rose-aria-midi-dress-in-black-1.webp",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/main/2x/518-690/lulu-rose-aria-midi-dress-in-black-1.webp",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/main/3x/776-1035/lulu-rose-aria-midi-dress-in-black-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/size/1200x1200/1200-1200/lulu-rose-aria-midi-dress-in-black-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/thumb/1x/170-272/lulu-rose-aria-midi-dress-in-black-1.jpg",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/thumb/2x/340-544/lulu-rose-aria-midi-dress-in-black-1.jpg",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/thumb/3x/509-816/lulu-rose-aria-midi-dress-in-black-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/thumb/1x/170-272/lulu-rose-aria-midi-dress-in-black-1.webp",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/thumb/2x/340-544/lulu-rose-aria-midi-dress-in-black-1.webp",
+            "https://images.theurge.com/glue-store/3rIixHrFogY0X6Lmlc9pAl1bjB0=/thumb/3x/509-816/lulu-rose-aria-midi-dress-in-black-1.webp"
+          ]
+        ],
+        "e_is_free_returns": false,
+        "e_is_free_shipping": false,
+        "e_is_on_sale": true,
+        "e_item_code": "5765043028122",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Aria Midi Dress In Black",
+        "e_retailer_display_domain": "gluestore.com.au",
+        "e_retailer_display_name": "Glue Store",
+        "e_retailer_facet_name": "Glue Store",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "gs",
+        "e_retailer_type": "low",
+        "e_returns_link": "https://www.gluestore.com.au/customer-returns/",
+        "e_sales": [
+          "10",
+          "20",
+          "on-sale"
+        ],
+        "e_shipping_link": "https://www.gluestore.com.au/shipping/",
+        "e_subcat": [
+          "clothing-dresses-midi-knee-length-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs",
+          "en-gb": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs",
+          "en-nz": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs",
+          "en-us": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs",
+          "en-za": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs"
+        },
+        "friendly_canonical": "lulu-rose-aria-midi-dress-in-black-5765043028122-gs",
+        "hreflangs": [
+          "en-au",
+          "en-zz"
+        ],
+        "item_code": "5765043028122",
+        "long_description": "WOMENS BLACK MIDI DRESS by LULU & ROSE Capturing the attention of fashion forward women, Sydney-based label Lulu & Rose design on-trend apparel for women. The brand delivers pieces for all styles whether you",
+        "product_name": "Aria Midi Dress In Black",
+        "retailer_code": "au-glue-store",
+        "retailer_price": 119.95,
+        "retailer_url": "https://www.gluestore.com.au/collections/dresses/products/aria-midi-dress-in-black",
+        "sale_price": 89.96,
+        "sku_code": "LU23988BLK-1-1",
+        "updated_at": "2020-10-07T06:41:18.935+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "witch_6025781409538_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Pale Seafoam",
+        "converted_currency": "USD",
+        "converted_retailer_price": 105.17269929225675,
+        "converted_sale_price": 0,
+        "currency": "AUD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42641&murl=https%3A%2F%2Fwww.witchery.com.au%2FProduct%2F60257814-9538%2F%3Fcolour%3DPale-Seafoam%26size%3D6%26scd%3Dtrue",
+        "e_brand_formatted": "Witchery",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses"
+        ],
+        "e_color": "green-seafoam",
+        "e_color_parent": "green",
+        "e_friendly_id": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch",
+        "e_friendly_ids": [
+          "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/main/2x/394-587/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/main/1x/232-345/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/main/3x/394-587/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.67
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/main/1x/232-345/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.webp",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/main/2x/394-587/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.webp",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/main/3x/394-587/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/size/1200x1200/1200-1200/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/thumb/1x/170-253/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/thumb/3x/394-587/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/thumb/2x/340-507/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/thumb/1x/170-253/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.webp",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/thumb/2x/340-507/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.webp",
+            "https://images.theurge.com/witchery/vFZB-7lAqe7lSVJXS13gN307CDw=/thumb/3x/394-587/pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-1.webp"
+          ]
+        ],
+        "e_is_free_returns": false,
+        "e_is_free_shipping": false,
+        "e_item_code": "6025781409538",
+        "e_material": "material-polyester",
+        "e_product_name": "Tiered Gathered Dress - Pale Seafoam",
+        "e_retailer_display_domain": "witchery.com.au",
+        "e_retailer_display_name": "Witchery",
+        "e_retailer_facet_name": "Witchery",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "witch",
+        "e_subcat": [],
+        "friendly_alternates": {
+          "en-au": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch",
+          "en-gb": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch",
+          "en-nz": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch",
+          "en-us": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch",
+          "en-za": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch"
+        },
+        "friendly_canonical": "pale-seafoam-witchery-tiered-gathered-dress-pale-seafoam-6025781409538-witch",
+        "gender": "female",
+        "hreflangs": [
+          "en-au",
+          "en-zz"
+        ],
+        "item_code": "6025781409538",
+        "long_description": "Witchery Women's Clothing Tiered Gathered Dress, Pale Seafoam, 6. 100% Polyester",
+        "product_name": "Tiered Gathered Dress - Pale Seafoam",
+        "retailer_code": "enau-witchery",
+        "retailer_price": 149.95,
+        "retailer_url": "https://www.witchery.com.au/Product/60257814-9538/?colour=Pale-Seafoam&size=6&scd=true",
+        "sku_code": "47042507",
+        "updated_at": "2020-10-05T13:55:01.999+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15739172_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Ffloral-applique-tulle-gown-15739172",
+        "e_brand_formatted": "RED Valentino",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-gown"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-gowns"
+        ],
+        "e_color": "floral",
+        "e_color_parent": "floral",
+        "e_friendly_id": "redvalentino-floral-applique-tulle-gown-15739172-hr",
+        "e_friendly_ids": [
+          "redvalentino-floral-applique-tulle-gown-15739172-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/main/1x/304-345/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/main/2x/607-690/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/main/3x/800-909/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/main/1x/304-345/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.webp",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/main/2x/607-690/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.webp",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/main/3x/800-909/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/size/1200x1200/1200-1200/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/thumb/1x/129-272/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/thumb/2x/257-544/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/thumb/3x/382-816/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/thumb/1x/129-272/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.webp",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/thumb/2x/257-544/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.webp",
+            "https://images.theurge.com/harrods/gtXWG9l2V4GMknQ75wuGqikvcVc=/thumb/3x/382-816/black-redvalentino-redvalentino-floral-appliquÃ©-tulle-gown-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15739172",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Floral AppliquÃ© Tulle Gown",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-gowns"
+        ],
+        "friendly_alternates": {
+          "en-au": "redvalentino-floral-applique-tulle-gown-15739172-hr",
+          "en-gb": "redvalentino-floral-applique-tulle-gown-15739172-hr",
+          "en-nz": "redvalentino-floral-applique-tulle-gown-15739172-hr",
+          "en-us": "redvalentino-floral-applique-tulle-gown-15739172-hr",
+          "en-za": "redvalentino-floral-applique-tulle-gown-15739172-hr"
+        },
+        "friendly_canonical": "redvalentino-floral-applique-tulle-gown-15739172-hr",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15739172",
+        "long_description": "Full of swish and intrigue, this RedValentino gown is guaranteed to strike a chord with those favouring classic romance over fairytale sparkle. Crafted from layers of weightless tulle for an ethereal effect, this decadent design is carefully traced with dainty floral appliquÃ©s that add an offbeat accent to its voluminous structure.",
+        "product_name": "Redvalentino Floral AppliquÃ© Tulle Gown",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 1419,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/floral-applique-tulle-gown-15739172",
+        "sku_code": "15739172-5248",
+        "updated_at": "2020-10-05T16:25:20.663+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15884169_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Fdiamond-knit-midi-dress-15884169",
+        "e_brand_formatted": "Balmain",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-midi"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-midi-knee-length-dresses"
+        ],
+        "e_color": "animal_prints",
+        "e_color_parent": "animal_prints",
+        "e_friendly_id": "balmain-diamond-knit-midi-dress-15884169-hr",
+        "e_friendly_ids": [
+          "balmain-diamond-knit-midi-dress-15884169-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/main/1x/304-345/white-balmain-diamond-knit-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/main/2x/607-690/white-balmain-diamond-knit-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/main/3x/800-909/white-balmain-diamond-knit-midi-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/main/1x/304-345/white-balmain-diamond-knit-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/main/2x/607-690/white-balmain-diamond-knit-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/main/3x/800-909/white-balmain-diamond-knit-midi-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/size/1200x1200/1200-1200/white-balmain-diamond-knit-midi-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/thumb/1x/105-272/white-balmain-diamond-knit-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/thumb/2x/208-544/white-balmain-diamond-knit-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/thumb/3x/311-816/white-balmain-diamond-knit-midi-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/thumb/1x/105-272/white-balmain-diamond-knit-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/thumb/2x/208-544/white-balmain-diamond-knit-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/7uL7wP-UjzerESe0mZtVr4Mbjv4=/thumb/3x/311-816/white-balmain-diamond-knit-midi-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15884169",
+        "e_material": "material-knit",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Diamond-Knit Midi Dress",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-midi-knee-length-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "balmain-diamond-knit-midi-dress-15884169-hr",
+          "en-gb": "balmain-diamond-knit-midi-dress-15884169-hr",
+          "en-nz": "balmain-diamond-knit-midi-dress-15884169-hr",
+          "en-us": "balmain-diamond-knit-midi-dress-15884169-hr",
+          "en-za": "balmain-diamond-knit-midi-dress-15884169-hr"
+        },
+        "friendly_canonical": "balmain-diamond-knit-midi-dress-15884169-hr",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15884169",
+        "long_description": "Exemplifying Balmain's trailblazing spirit by way ofthe signature diamond weave and lion-embossed buttons, this bodycon midi dress promises to fit flatteringly like a second skin. Thanks to its soft construction, the style envelops its wearer in warmth and comfort - ideal for all those social events you have coming up in the cooler season.",
+        "product_name": "Diamond-Knit Midi Dress",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 2094,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/diamond-knit-midi-dress-15884169",
+        "sku_code": "15884169-5248",
+        "updated_at": "2020-10-05T16:49:46.645+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15807903_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Fmonogram-sweater-dress-4-16-years-15807903",
+        "e_brand_formatted": "Calvin Klein",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-sweater_dress"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-sweater-dresses"
+        ],
+        "e_friendly_id": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr",
+        "e_friendly_ids": [
+          "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/main/1x/304-345/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/main/2x/607-690/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/main/3x/800-909/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/main/1x/304-345/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.webp",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/main/2x/607-690/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.webp",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/main/3x/800-909/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/size/1200x1200/1200-1200/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/thumb/1x/170-201/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/thumb/2x/340-401/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/thumb/3x/510-602/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/thumb/1x/170-201/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.webp",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/thumb/2x/340-401/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.webp",
+            "https://images.theurge.com/harrods/7gC1jMlRZoVC5A6gvkMP5Qb0sF8=/thumb/3x/510-602/pink-calvin-klein-kids-monogram-sweater-dress-4-16-years-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15807903",
+        "e_material": "material-cotton",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Kids Monogram Sweater Dress (4-16 Years)",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-sweater-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr",
+          "en-gb": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr",
+          "en-nz": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr",
+          "en-us": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr",
+          "en-za": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr"
+        },
+        "friendly_canonical": "calvin-klein-kids-monogram-sweater-dress-4-16-years-15807903-hr",
+        "gender": "unisex",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15807903",
+        "long_description": "This Calvin Klein Kids sweater dress spotlights the label's monogram logo, instantly declaring your youngster's brand allegiance. Crafted from sumptuously soft cotton for warmth and comfort, this piece captures the athleticism of the casual sweatshirt, this time in a longline silhouette.",
+        "product_name": "Kids Monogram Sweater Dress (4-16 Years)",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 94,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/monogram-sweater-dress-4-16-years-15807903",
+        "sku_code": "15807903-52",
+        "updated_at": "2020-10-05T16:37:03.256+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "zara_07756362i2020_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Khaki",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_brand_formatted": "Zara",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-slip"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-day-dresses"
+        ],
+        "e_color": "green-khaki",
+        "e_color_parent": "green",
+        "e_free_shipping_currency": "USD",
+        "e_free_shipping_over": [
+          0
+        ],
+        "e_friendly_id": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara",
+        "e_friendly_ids": [
+          "khaki-zara-polka-dot-slip-dress-07756362i2020-zara"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-1.jpg",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-1.jpg",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-2.jpg",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-2.jpg",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-3.jpg",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-3.jpg",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-4.jpg",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-4.jpg",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-4.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-5.jpg",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-5.jpg",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-5.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-6.jpg",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-6.jpg",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-6.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.67,
+          0.67,
+          0.67,
+          0.67,
+          0.67,
+          0.67
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-1.webp",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-1.webp",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-2.webp",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-2.webp",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-3.webp",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-3.webp",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-4.webp",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-4.webp",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-4.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-5.webp",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-5.webp",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-5.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/main/1x/230-345/khaki-zara-polka-dot-slip-dress-6.webp",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/main/2x/460-690/khaki-zara-polka-dot-slip-dress-6.webp",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/main/3x/563-845/khaki-zara-polka-dot-slip-dress-6.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/size/1200x1200/1200-1200/khaki-zara-polka-dot-slip-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-1.jpg",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-1.jpg",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-2.jpg",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/thumb/2x/339-544/khaki-zara-polka-dot-slip-dress-2.jpg",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/thumb/3x/509-816/khaki-zara-polka-dot-slip-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-3.jpg",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/thumb/2x/339-544/khaki-zara-polka-dot-slip-dress-3.jpg",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-4.jpg",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-4.jpg",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-4.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-5.jpg",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-5.jpg",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-5.jpg"
+          ],
+          [
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-6.jpg",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-6.jpg",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/thumb/3x/510-816/khaki-zara-polka-dot-slip-dress-6.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-1.webp",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-1.webp",
+            "https://images.theurge.com/zara/mHiRexqwgDv-xjXPMn4zflErTrs=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-2.webp",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/thumb/2x/339-544/khaki-zara-polka-dot-slip-dress-2.webp",
+            "https://images.theurge.com/zara/IRgY4bVxeedmaqdITH-mtmN1OvY=/thumb/3x/509-816/khaki-zara-polka-dot-slip-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-3.webp",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/thumb/2x/339-544/khaki-zara-polka-dot-slip-dress-3.webp",
+            "https://images.theurge.com/zara/J7OmfO1ejyL5Jq1lLafTLoKsUNc=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-4.webp",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-4.webp",
+            "https://images.theurge.com/zara/HcrhbId0dVfOSOJrK1JUoTjRzoQ=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-4.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-5.webp",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-5.webp",
+            "https://images.theurge.com/zara/I5TsPworqXQK76ltVrIELhNOFT8=/thumb/3x/510-765/khaki-zara-polka-dot-slip-dress-5.webp"
+          ],
+          [
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/thumb/1x/170-272/khaki-zara-polka-dot-slip-dress-6.webp",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/thumb/2x/340-544/khaki-zara-polka-dot-slip-dress-6.webp",
+            "https://images.theurge.com/zara/h4Qpw0y-ksy9tMx-6eEDq_VHmjs=/thumb/3x/510-816/khaki-zara-polka-dot-slip-dress-6.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": true,
+        "e_item_code": "07756362i2020",
+        "e_material": "material-polyester",
+        "e_product_name": "POLKA DOT SLIP DRESS",
+        "e_retailer_display_domain": "zara.com",
+        "e_retailer_display_name": "Zara",
+        "e_retailer_facet_name": "Zara",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "zara",
+        "e_retailer_type": "low",
+        "e_returns_period": [
+          30
+        ],
+        "e_shipping_deals": [
+          "free-returns",
+          "free-shipping"
+        ],
+        "e_subcat": [
+          "clothing-dresses-day-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara",
+          "en-gb": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara",
+          "en-nz": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara",
+          "en-us": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara",
+          "en-za": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara"
+        },
+        "friendly_canonical": "khaki-zara-polka-dot-slip-dress-07756362i2020-zara",
+        "gender": "female",
+        "hreflangs": [
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "07756362-I2020",
+        "long_description": "Midi dress with flowy neckline and spaghetti straps. Front wrap detail with side ruching and slit. Hidden in-seam side zipper and tonal lined button closure at back.",
+        "material": "polyester",
+        "product_name": "POLKA DOT SLIP DRESS",
+        "retailer_code": "enus-zara",
+        "retailer_price": 49.9,
+        "retailer_url": "https://www.zara.com/us/en/polka-dot-slip-dress-p07756362.html",
+        "sku_code": "07756362-I2020",
+        "updated_at": "2020-10-07T05:02:01.103+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15873182_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Ffloral-alvia-midi-dress-15873182",
+        "e_brand_formatted": "Emilia Wickstead",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-midi"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-midi-knee-length-dresses"
+        ],
+        "e_color": "floral",
+        "e_color_parent": "floral",
+        "e_friendly_id": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr",
+        "e_friendly_ids": [
+          "emilia-wickstead-floral-alvia-midi-dress-15873182-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/main/1x/304-345/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/main/2x/607-690/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/main/3x/800-909/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/main/1x/304-345/ivory-emilia-wickstead-floral-alvia-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/main/2x/607-690/ivory-emilia-wickstead-floral-alvia-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/main/3x/800-909/ivory-emilia-wickstead-floral-alvia-midi-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/size/1200x1200/1200-1200/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/thumb/1x/123-272/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/thumb/2x/246-544/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/thumb/3x/363-816/ivory-emilia-wickstead-floral-alvia-midi-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/thumb/1x/123-272/ivory-emilia-wickstead-floral-alvia-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/thumb/2x/246-544/ivory-emilia-wickstead-floral-alvia-midi-dress-1.webp",
+            "https://images.theurge.com/harrods/-04J0C74e0ScqnO9jLK67GEwITo=/thumb/3x/363-816/ivory-emilia-wickstead-floral-alvia-midi-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15873182",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Floral Alvia Midi Dress",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-midi-knee-length-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr",
+          "en-gb": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr",
+          "en-nz": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr",
+          "en-us": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr",
+          "en-za": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr"
+        },
+        "friendly_canonical": "emilia-wickstead-floral-alvia-midi-dress-15873182-hr",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15873182",
+        "long_description": "Inherently elegant and charming as if it was taken straight from the '50s, the Alvia dress from Emilia Wickstead hosts a sleek harlequin floral print across its flowing midi length. Featuring sharp pleats to the skirt that enrich the design with a hint of movement, this sleeveless silhouette resonates with those who have a soft spot for retro fashion.",
+        "product_name": "Floral Alvia Midi Dress",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 2229,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/floral-alvia-midi-dress-15873182",
+        "sku_code": "15873182-54",
+        "updated_at": "2020-10-05T16:46:12.328+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "bf_15490053_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "white",
+        "converted_currency": "USD",
+        "converted_retailer_price": 1731.8915498539632,
+        "converted_sale_price": 0,
+        "currency": "GBP",
+        "e_affiliate_url": "https://prf.hn/click/camref:1100laAkR/destination:https%3A%2F%2Fwww.brownsfashion.com%2Fuk%2Fshopping%2Fexploded-mini-dress-15490053",
+        "e_brand_formatted": "Alexander McQueen",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-mini"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-mini-dresses"
+        ],
+        "e_color": "white",
+        "e_color_parent": "white",
+        "e_friendly_id": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf",
+        "e_friendly_ids": [
+          "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/main/1x/345-345/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/main/2x/690-690/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/main/3x/800-800/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          1
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/main/1x/345-345/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/main/2x/690-690/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/main/3x/800-800/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/size/1200x1200/1200-1200/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/thumb/1x/170-272/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/thumb/2x/340-544/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/thumb/3x/510-510/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/thumb/1x/170-272/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/thumb/2x/340-544/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/DBPWRby6WM1jP8LAIQnq_pPINyE=/thumb/3x/510-510/white-alexander-mcqueen-alexander-mcqueen-womens-white-exploded-mini-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15490053",
+        "e_material": "material-cotton",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Womens White Exploded Mini Dress",
+        "e_retailer_display_domain": "brownsfashion.com",
+        "e_retailer_display_name": "Browns",
+        "e_retailer_facet_name": "Browns",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "bf",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.brownsfashion.com/customer-service",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.brownsfashion.com/customer-service",
+        "e_subcat": [
+          "clothing-dresses-mini-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf",
+          "en-gb": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf",
+          "en-nz": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf",
+          "en-us": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf",
+          "en-za": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf"
+        },
+        "friendly_canonical": "white-alexander-mcqueen-womens-white-exploded-mini-dress-15490053-bf",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-zz"
+        ],
+        "item_code": "15490053",
+        "long_description": "9000 OPTICALWHITE Natural (Veg)->Cotton exploded mini dress from Alexander McQueen.",
+        "product_name": "Alexander Mcqueen Womens White Exploded Mini Dress",
+        "retailer_code": "engb-browns-fashion",
+        "retailer_price": 1340,
+        "retailer_url": "https://www.brownsfashion.com/uk/shopping/exploded-mini-dress-15490053",
+        "sku_code": "15490053-5248",
+        "updated_at": "2020-10-05T13:58:58.809+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "rfntw_559758_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Water",
+        "converted_currency": "USD",
+        "converted_retailer_price": 383.036934,
+        "converted_sale_price": 253.80562799999998,
+        "currency": "EUR",
+        "e_affiliate_url": "http://www.dpbolvw.net/click-8374178-12950202?url=https%3A%2F%2Fwww.raffaello-network.com%2Fenglish%2Ffashion-details%2F559758%2F2935%2FAniye%2520By%2520Womens%2520Clothing.html",
+        "e_brand_formatted": "Aniye By",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses"
+        ],
+        "e_friendly_id": "water-aniye-by-clothing-for-women-559758-rfntw",
+        "e_friendly_ids": [
+          "water-aniye-by-clothing-for-women-559758-rfntw"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/main/1x/230-345/water-aniye-by-clothing-for-women-1.jpg",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/main/2x/460-690/water-aniye-by-clothing-for-women-1.jpg",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/main/3x/690-1035/water-aniye-by-clothing-for-women-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/main/1x/230-345/water-aniye-by-clothing-for-women-2.jpg",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/main/2x/460-690/water-aniye-by-clothing-for-women-2.jpg",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/main/3x/690-1035/water-aniye-by-clothing-for-women-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/main/1x/230-345/water-aniye-by-clothing-for-women-3.jpg",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/main/2x/460-690/water-aniye-by-clothing-for-women-3.jpg",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/main/3x/690-1035/water-aniye-by-clothing-for-women-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/main/1x/230-345/water-aniye-by-clothing-for-women-4.jpg",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/main/2x/460-690/water-aniye-by-clothing-for-women-4.jpg",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/main/3x/690-1035/water-aniye-by-clothing-for-women-4.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/main/1x/230-345/water-aniye-by-clothing-for-women-5.jpg",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/main/2x/460-690/water-aniye-by-clothing-for-women-5.jpg",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/main/3x/690-1035/water-aniye-by-clothing-for-women-5.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.67,
+          0.67,
+          0.67,
+          0.67,
+          0.67
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/main/1x/230-345/water-aniye-by-clothing-for-women-1.webp",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/main/2x/460-690/water-aniye-by-clothing-for-women-1.webp",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/main/3x/690-1035/water-aniye-by-clothing-for-women-1.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/main/1x/230-345/water-aniye-by-clothing-for-women-2.webp",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/main/2x/460-690/water-aniye-by-clothing-for-women-2.webp",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/main/3x/690-1035/water-aniye-by-clothing-for-women-2.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/main/1x/230-345/water-aniye-by-clothing-for-women-3.webp",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/main/2x/460-690/water-aniye-by-clothing-for-women-3.webp",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/main/3x/690-1035/water-aniye-by-clothing-for-women-3.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/main/1x/230-345/water-aniye-by-clothing-for-women-4.webp",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/main/2x/460-690/water-aniye-by-clothing-for-women-4.webp",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/main/3x/690-1035/water-aniye-by-clothing-for-women-4.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/main/1x/230-345/water-aniye-by-clothing-for-women-5.webp",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/main/2x/460-690/water-aniye-by-clothing-for-women-5.webp",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/main/3x/690-1035/water-aniye-by-clothing-for-women-5.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/size/1200x1200/1200-1200/water-aniye-by-clothing-for-women-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/thumb/1x/141-272/water-aniye-by-clothing-for-women-1.jpg",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/thumb/2x/281-544/water-aniye-by-clothing-for-women-1.jpg",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/thumb/3x/422-816/water-aniye-by-clothing-for-women-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/thumb/1x/78-272/water-aniye-by-clothing-for-women-2.jpg",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/thumb/2x/156-544/water-aniye-by-clothing-for-women-2.jpg",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/thumb/3x/234-816/water-aniye-by-clothing-for-women-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/thumb/1x/71-272/water-aniye-by-clothing-for-women-3.jpg",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/thumb/2x/141-544/water-aniye-by-clothing-for-women-3.jpg",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/thumb/3x/212-816/water-aniye-by-clothing-for-women-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/thumb/1x/80-272/water-aniye-by-clothing-for-women-4.jpg",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/thumb/2x/161-544/water-aniye-by-clothing-for-women-4.jpg",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/thumb/3x/241-816/water-aniye-by-clothing-for-women-4.jpg"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/thumb/1x/109-272/water-aniye-by-clothing-for-women-5.jpg",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/thumb/2x/219-544/water-aniye-by-clothing-for-women-5.jpg",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/thumb/3x/328-816/water-aniye-by-clothing-for-women-5.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/thumb/1x/141-272/water-aniye-by-clothing-for-women-1.webp",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/thumb/2x/281-544/water-aniye-by-clothing-for-women-1.webp",
+            "https://images.theurge.com/raffaello-network/5nmptqOvyyDD5_EYZNhFlsbTu6I=/thumb/3x/422-816/water-aniye-by-clothing-for-women-1.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/thumb/1x/78-272/water-aniye-by-clothing-for-women-2.webp",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/thumb/2x/156-544/water-aniye-by-clothing-for-women-2.webp",
+            "https://images.theurge.com/raffaello-network/ekz8Bsj-hc6DRVxM1y3McGuyUic=/thumb/3x/234-816/water-aniye-by-clothing-for-women-2.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/thumb/1x/71-272/water-aniye-by-clothing-for-women-3.webp",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/thumb/2x/141-544/water-aniye-by-clothing-for-women-3.webp",
+            "https://images.theurge.com/raffaello-network/nlqAKkiEb3JHhGODc6m1tOecZEc=/thumb/3x/212-816/water-aniye-by-clothing-for-women-3.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/thumb/1x/80-272/water-aniye-by-clothing-for-women-4.webp",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/thumb/2x/161-544/water-aniye-by-clothing-for-women-4.webp",
+            "https://images.theurge.com/raffaello-network/4cXwetJek65jIzyArTJutwaCVyY=/thumb/3x/241-816/water-aniye-by-clothing-for-women-4.webp"
+          ],
+          [
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/thumb/1x/109-272/water-aniye-by-clothing-for-women-5.webp",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/thumb/2x/219-544/water-aniye-by-clothing-for-women-5.webp",
+            "https://images.theurge.com/raffaello-network/lSqk17Bfe303ceP_4YmK3XNpoMw=/thumb/3x/328-816/water-aniye-by-clothing-for-women-5.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_is_on_sale": true,
+        "e_item_code": "559758",
+        "e_material": "material-cotton",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Clothing for Women",
+        "e_retailer_display_domain": "raffaello-network.com",
+        "e_retailer_display_name": "Raffaello Network",
+        "e_retailer_facet_name": "Raffaello Network",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "rfntw",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.raffaello-network.com/english/refunds",
+        "e_returns_period": [
+          15
+        ],
+        "e_sales": [
+          "10",
+          "20",
+          "30",
+          "on-sale"
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.raffaello-network.com/english/refunds#shippingCostModal",
+        "e_subcat": [],
+        "friendly_alternates": {
+          "en-au": "water-aniye-by-clothing-for-women-559758-rfntw",
+          "en-gb": "water-aniye-by-clothing-for-women-559758-rfntw",
+          "en-nz": "water-aniye-by-clothing-for-women-559758-rfntw",
+          "en-us": "water-aniye-by-clothing-for-women-559758-rfntw",
+          "en-za": "water-aniye-by-clothing-for-women-559758-rfntw"
+        },
+        "friendly_canonical": "water-aniye-by-clothing-for-women-559758-rfntw",
+        "gender": "female",
+        "hreflangs": [
+          "en-it",
+          "en-zz"
+        ],
+        "item_code": "559758",
+        "long_description": "Dresses â€¢ Deep V neckline â€¢ Feathers Applications on Armholes â€¢ Lace Finishing â€¢ Tone on Tone Petticoat â€¢ Model measures : Bust/Chest 82 cm / Height 182 cm / Waist 63 cm / Hips 90 cm â€¢ Model wears a S size â€¢ Made in Italy",
+        "material": "54% Polyamide, 46% Cotton",
+        "product_name": "Clothing for Women",
+        "retailer_code": "enit-raffaello-network",
+        "retailer_price": 329,
+        "retailer_url": "https://www.raffaello-network.com/english/fashion-details/559758/2935/Aniye%20By%20Womens%20Clothing.html",
+        "sale_price": 218,
+        "sku_code": "559758",
+        "updated_at": "2020-10-07T03:38:17.222+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "hr_15628570_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://click.linksynergy.com/deeplink?id=xdc4Z/ZuaBU&mid=42684&murl=https%3A%2F%2Fwww.harrods.com%2Fen-us%2Fshopping%2Fart-nouveau-print-dress-15628570",
+        "e_brand_formatted": "Alexander McQueen",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-print"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-floral-print-dresses"
+        ],
+        "e_friendly_id": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr",
+        "e_friendly_ids": [
+          "alexander-mcqueen-art-nouveau-print-dress-15628570-hr"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/main/1x/304-345/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/main/2x/607-690/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/main/3x/800-909/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.88
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/main/1x/304-345/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.webp",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/main/2x/607-690/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.webp",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/main/3x/800-909/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/size/1200x1200/1200-1200/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/thumb/1x/118-272/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/thumb/2x/236-544/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/thumb/3x/353-816/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/thumb/1x/118-272/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.webp",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/thumb/2x/236-544/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.webp",
+            "https://images.theurge.com/harrods/LtWrxrM0i1HyV--boeQZR8lTJ0s=/thumb/3x/353-816/white-alexander-mcqueen-alexander-mcqueen-art-nouveau-print-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15628570",
+        "e_material": "material-cotton",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Art Nouveau Print Dress",
+        "e_retailer_display_domain": "harrods.com",
+        "e_retailer_display_name": "Harrods",
+        "e_retailer_facet_name": "Harrods",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "hr",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.harrods.com/en-gb/delivery-and-returns/returns?icid=deliveryandreturnsinternationaldelivery_page-link-list_module-26_element-1_returns",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.harrods.com/en-gb/delivery-and-returns/international-delivery?icid=deliveryandreturnsukdelivery_page-link-list_module-26_element-1_international-delivery",
+        "e_subcat": [
+          "clothing-dresses-floral-print-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr",
+          "en-gb": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr",
+          "en-nz": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr",
+          "en-us": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr",
+          "en-za": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr"
+        },
+        "friendly_canonical": "alexander-mcqueen-art-nouveau-print-dress-15628570-hr",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "15628570",
+        "long_description": "With this boldly romantic dress, Alexander McQueen continues to explore themes of femininity and strength in its quest to bring an air of power to the contemporary womans wardrobe. Enlivened with an eye-catching Art Nouveau print in a monochromatic hue, this midi silhouette will frame you in modest elegance, withthe high neckline and cap sleeves balancing the whimsy of its cotton profile.",
+        "product_name": "Alexander Mcqueen Art Nouveau Print Dress",
+        "retailer_code": "enus-harrods",
+        "retailer_price": 2113,
+        "retailer_url": "https://www.harrods.com/en-us/shopping/art-nouveau-print-dress-15628570",
+        "sku_code": "15628570-5156",
+        "updated_at": "2020-10-05T16:08:23.532+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "bf_15594913_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "white",
+        "converted_currency": "USD",
+        "converted_retailer_price": 342.50094082932856,
+        "converted_sale_price": 0,
+        "currency": "GBP",
+        "e_affiliate_url": "https://prf.hn/click/camref:1100laAkR/destination:https%3A%2F%2Fwww.brownsfashion.com%2Fuk%2Fshopping%2Fparsley-floral-print-midi-dress-15594913",
+        "e_brand_formatted": "Reformation",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-floral"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-floral-print-dresses"
+        ],
+        "e_color": "white",
+        "e_color_parent": "white",
+        "e_friendly_id": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf",
+        "e_friendly_ids": [
+          "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/main/1x/345-345/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/main/3x/800-800/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/main/2x/690-690/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          1
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/main/1x/345-345/white-reformation-womens-white-parsley-floral-print-midi-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/main/3x/800-800/white-reformation-womens-white-parsley-floral-print-midi-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/main/2x/690-690/white-reformation-womens-white-parsley-floral-print-midi-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/size/1200x1200/1200-1200/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/thumb/1x/170-272/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/thumb/2x/340-544/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/thumb/3x/510-510/white-reformation-womens-white-parsley-floral-print-midi-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/thumb/1x/170-272/white-reformation-womens-white-parsley-floral-print-midi-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/thumb/3x/510-510/white-reformation-womens-white-parsley-floral-print-midi-dress-1.webp",
+            "https://images.theurge.com/browns-fashion/7g049VBI2jCDMBh7aWsk4GdBQqs=/thumb/2x/340-544/white-reformation-womens-white-parsley-floral-print-midi-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "15594913",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Womens White Parsley Floral Print Midi Dress",
+        "e_retailer_display_domain": "brownsfashion.com",
+        "e_retailer_display_name": "Browns",
+        "e_retailer_facet_name": "Browns",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "bf",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.brownsfashion.com/customer-service",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.brownsfashion.com/customer-service",
+        "e_subcat": [
+          "clothing-dresses-floral-print-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf",
+          "en-gb": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf",
+          "en-nz": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf",
+          "en-us": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf",
+          "en-za": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf"
+        },
+        "friendly_canonical": "white-reformation-womens-white-parsley-floral-print-midi-dress-15594913-bf",
+        "gender": "female",
+        "hreflangs": [
+          "en-gb",
+          "en-zz"
+        ],
+        "item_code": "15594913",
+        "long_description": "White Parsley floral print midi dress from REFORMATION featuring sweetheart neck, smocked waist, short sleeves, elasticated cuffs and side slit.",
+        "product_name": "Womens White Parsley Floral Print Midi Dress",
+        "retailer_code": "engb-browns-fashion",
+        "retailer_price": 265,
+        "retailer_url": "https://www.brownsfashion.com/uk/shopping/parsley-floral-print-midi-dress-15594913",
+        "sku_code": "15594913-8883",
+        "updated_at": "2020-10-05T13:55:07.546+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "feve_2000397867033_all",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Lavender,cream",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://www.tkqlhce.com/click-8374178-12323263?url=https%3A%2F%2Fwww.forever21.com%2Fus%2FShop%2FCatalog%2FProduct%2Ff21%2Fdress%2F2000397867%2F03",
+        "e_brand_formatted": "Forever 21",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-flared"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses"
+        ],
+        "e_color": "neutral-cream",
+        "e_color_parent": "neutral",
+        "e_friendly_id": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve",
+        "e_friendly_ids": [
+          "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/main/1x/230-345/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/main/2x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/main/3x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.67
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/main/1x/230-345/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.webp",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/main/2x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.webp",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/main/3x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/size/1200x1200/1200-1200/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/thumb/1x/170-272/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/thumb/2x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/thumb/3x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/thumb/1x/170-272/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.webp",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/thumb/2x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.webp",
+            "https://images.theurge.com/forever-twentyone/V41g51_7h4M9Z8siTXbq-33jfVE=/thumb/3x/330-495/lavender-cream-forever21-forever-21-floral-fit-flare-dress-1.webp"
+          ]
+        ],
+        "e_is_free_returns": false,
+        "e_is_free_shipping": false,
+        "e_is_on_sale": true,
+        "e_item_code": "2000397867033",
+        "e_material": "material-woven",
+        "e_product_name": "Forever 21 Floral Fit & Flare Dress",
+        "e_retailer_display_domain": "forever21.com",
+        "e_retailer_display_name": "Forever 21",
+        "e_retailer_facet_name": "Forever 21",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "feve",
+        "e_sales": [
+          "10",
+          "20",
+          "30",
+          "on-sale"
+        ],
+        "e_subcat": [],
+        "friendly_alternates": {
+          "en-au": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve",
+          "en-gb": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve",
+          "en-nz": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve",
+          "en-us": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve",
+          "en-za": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve"
+        },
+        "friendly_canonical": "lavender-cream-forever21-forever-21-floral-fit-flare-dress-2000397867033-feve",
+        "gender": "female",
+        "hreflangs": [
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "2000397867033",
+        "long_description": "DetailsA woven mini length featuring an allover floral print, square neckline, sheer crochet trim, ruffled cap sleeves, ladder chest trim, and a fit and flare silhouette.Content + Care- Shell: 100% cotton- Lining: 100% rayon- Hand wash coldSize + Fit- Measured is a size Small- Full length: %22- Chest: %22- Waist: %22- Sleeve length: %22",
+        "product_name": "Forever 21 Floral Fit & Flare Dress",
+        "retailer_code": "enus-forever-twentyone",
+        "retailer_price": 29.99,
+        "retailer_url": "https://www.forever21.com/us/Shop/Catalog/Product/f21/dress/2000397867/03",
+        "sale_price": 20.99,
+        "sku_code": "2000397867033",
+        "updated_at": "2020-10-05T13:42:07.240+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "fw_hlanwd189_all-au",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Safety Orange",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "http://www.dpbolvw.net/click-8374178-11171491?url=https%3A%2F%2Fwww.fwrd.com%2Fproduct-helmut-lang-shirt-dress%2FHLAN-WD189%2F%3Fd%3DWomens%26plpSrc%3D%25252Ffw%25252FCategory.jsp%25253FaliasURL%25253Dcategory-loungewear%25252F97c04e%252526site%25253Df%252526%252526s%25253Dc%252526c%25253DLoungewear%252526sortBy%25253DfeaturedF",
+        "e_brand_formatted": "Helmut Lang",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-shirt_dress"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-shirt-dresses"
+        ],
+        "e_color": "orange",
+        "e_color_parent": "orange",
+        "e_free_shipping_currency": "USD",
+        "e_free_shipping_over": [
+          0
+        ],
+        "e_friendly_id": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw",
+        "e_friendly_ids": [
+          "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-1.jpg",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-1.jpg",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-2.jpg",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-2.jpg",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-3.jpg",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-3.jpg",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-4.jpg",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-4.jpg",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-4.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.66,
+          0.66,
+          0.66,
+          0.66
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-1.webp",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-1.webp",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-2.webp",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-2.webp",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-3.webp",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-3.webp",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/main/1x/228-345/safety-orange-helmut-lang-shirt-dress-4.webp",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/main/2x/457-690/safety-orange-helmut-lang-shirt-dress-4.webp",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/main/3x/685-1035/safety-orange-helmut-lang-shirt-dress-4.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/size/1200x1200/1200-1200/safety-orange-helmut-lang-shirt-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/thumb/1x/88-272/safety-orange-helmut-lang-shirt-dress-1.jpg",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/thumb/2x/177-544/safety-orange-helmut-lang-shirt-dress-1.jpg",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/thumb/3x/265-816/safety-orange-helmut-lang-shirt-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/thumb/1x/75-272/safety-orange-helmut-lang-shirt-dress-2.jpg",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/thumb/2x/149-544/safety-orange-helmut-lang-shirt-dress-2.jpg",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/thumb/3x/224-816/safety-orange-helmut-lang-shirt-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/thumb/1x/60-272/safety-orange-helmut-lang-shirt-dress-3.jpg",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/thumb/2x/119-544/safety-orange-helmut-lang-shirt-dress-3.jpg",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/thumb/3x/179-816/safety-orange-helmut-lang-shirt-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/thumb/1x/73-272/safety-orange-helmut-lang-shirt-dress-4.jpg",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/thumb/2x/147-544/safety-orange-helmut-lang-shirt-dress-4.jpg",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/thumb/3x/220-816/safety-orange-helmut-lang-shirt-dress-4.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/thumb/1x/88-272/safety-orange-helmut-lang-shirt-dress-1.webp",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/thumb/2x/177-544/safety-orange-helmut-lang-shirt-dress-1.webp",
+            "https://images.theurge.com/fwrd/6rHm3kp8AXhs5g6PeHfQytpqmiA=/thumb/3x/265-816/safety-orange-helmut-lang-shirt-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/thumb/1x/75-272/safety-orange-helmut-lang-shirt-dress-2.webp",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/thumb/2x/149-544/safety-orange-helmut-lang-shirt-dress-2.webp",
+            "https://images.theurge.com/fwrd/Thyk2P7QMQ5qRUThKORvPAHv0mg=/thumb/3x/224-816/safety-orange-helmut-lang-shirt-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/thumb/1x/60-272/safety-orange-helmut-lang-shirt-dress-3.webp",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/thumb/2x/119-544/safety-orange-helmut-lang-shirt-dress-3.webp",
+            "https://images.theurge.com/fwrd/R2wFUc-T2s_H8RUY6KwqwbAnOL4=/thumb/3x/179-816/safety-orange-helmut-lang-shirt-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/thumb/1x/73-272/safety-orange-helmut-lang-shirt-dress-4.webp",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/thumb/2x/147-544/safety-orange-helmut-lang-shirt-dress-4.webp",
+            "https://images.theurge.com/fwrd/yJdqAQ6mDMzZ7BOElabMHZk-GCY=/thumb/3x/220-816/safety-orange-helmut-lang-shirt-dress-4.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": true,
+        "e_item_code": "hlanwd189",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "Shirt Dress",
+        "e_retailer_display_domain": "fwrd.com",
+        "e_retailer_display_name": "FWRD",
+        "e_retailer_facet_name": "FWRD",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "fw",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.fwrd.com/fw/content/customercare/shippingreturns/",
+        "e_returns_period": [
+          30
+        ],
+        "e_shipping_deals": [
+          "free-returns",
+          "free-shipping"
+        ],
+        "e_shipping_link": "https://www.fwrd.com/fw/content/customercare/shippingreturns/",
+        "e_subcat": [
+          "clothing-dresses-shirt-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw",
+          "en-gb": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw",
+          "en-nz": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw",
+          "en-us": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw",
+          "en-za": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw"
+        },
+        "friendly_canonical": "safety-orange-helmut-lang-shirt-dress-hlanwd189-fw",
+        "gender": "female",
+        "hreflangs": [
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "HLAN-WD189",
+        "long_description": "<ul> <li>100% viscose<br></li> <li>Made in Vietnam</li> <li>Dry clean only</li> <li>Unlined</li> <li>Puckered fabric detail at waist</li> <li>Side slit detail at hem</li> <li>Semi sheer</li> <li>Our Style No. HLAN-WD189</li> <li>Manufacturer Style No. K06HW611</li> <li>Model is wearing size S. View detailed measurements of this item. </li> </ul>",
+        "product_name": "Shirt Dress",
+        "retailer_code": "enus-fwrd",
+        "retailer_price": 395,
+        "retailer_url": "https://www.fwrd.com/product-helmut-lang-shirt-dress/HLAN-WD189/?d=Womens&plpSrc=%252Ffw%252FCategory.jsp%253FaliasURL%253Dcategory-loungewear%252F97c04e%2526site%253Df%2526%2526s%253Dc%2526c%253DLoungewear%2526sortBy%253DfeaturedF",
+        "sku_code": "HLAN-WD189",
+        "updated_at": "2020-10-07T02:26:13.346+00:00"
+      }
+    },
+    {
+      "type": "product",
+      "id": "ss_5996911_all-au|ca|eur",
+      "attributes": {
+        "availability": "in-stock",
+        "color": "Taupe",
+        "converted_currency": "",
+        "converted_retailer_price": 0,
+        "converted_sale_price": 0,
+        "currency": "USD",
+        "e_affiliate_url": "https://prf.hn/click/camref:1100l3dSP/creativeref:1100l24752/destination:https://www.ssense.com/en-us/women/product/kwaidan-editions/ssense-exclusive-taupe-wide-open-neck-dress/5996911",
+        "e_brand_formatted": "Kwaidan Editions",
+        "e_cat_l1": [
+          "clothing"
+        ],
+        "e_cat_l2": [
+          "clothing-dresses"
+        ],
+        "e_categories": [
+          "clothing-top-dress-maxi"
+        ],
+        "e_categories_path": [
+          "clothing",
+          "clothing|clothing-dresses",
+          "clothing|clothing-dresses|clothing-dresses-maxi-dresses"
+        ],
+        "e_color": "neutral-taupe",
+        "e_color_parent": "neutral",
+        "e_free_shipping_currency": "USD",
+        "e_free_shipping_over": [
+          200,
+          250
+        ],
+        "e_friendly_id": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss",
+        "e_friendly_ids": [
+          "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss"
+        ],
+        "e_gender_list": [
+          "female"
+        ],
+        "e_image_urls_detail_jpg": [
+          [
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/main/1x/79-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/main/2x/159-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/main/3x/238-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/main/1x/70-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.jpg",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/main/2x/139-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.jpg",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/main/3x/209-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/main/1x/76-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.jpg",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/main/2x/151-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.jpg",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/main/3x/227-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/main/1x/77-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.jpg",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/main/2x/155-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.jpg",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/main/3x/232-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.jpg"
+          ]
+        ],
+        "e_image_urls_detail_ratio": [
+          0.23,
+          0.2,
+          0.22,
+          0.22
+        ],
+        "e_image_urls_detail_webp": [
+          [
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/main/1x/79-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.webp",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/main/2x/159-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.webp",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/main/3x/238-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/main/1x/70-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.webp",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/main/2x/139-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.webp",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/main/3x/209-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/main/1x/76-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.webp",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/main/2x/151-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.webp",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/main/3x/227-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/main/1x/77-345/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.webp",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/main/2x/155-690/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.webp",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/main/3x/232-1035/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.webp"
+          ]
+        ],
+        "e_image_urls_og": "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/size/1200x1200/1200-1200/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg",
+        "e_image_urls_search_jpg": [
+          [
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/thumb/1x/63-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/thumb/2x/125-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/thumb/3x/188-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.jpg"
+          ],
+          [
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/thumb/1x/55-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.jpg",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/thumb/2x/110-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.jpg",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/thumb/3x/165-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.jpg"
+          ],
+          [
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/thumb/1x/60-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.jpg",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/thumb/2x/119-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.jpg",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/thumb/3x/179-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.jpg"
+          ],
+          [
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/thumb/1x/61-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.jpg",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/thumb/2x/122-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.jpg",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/thumb/3x/183-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.jpg"
+          ]
+        ],
+        "e_image_urls_search_webp": [
+          [
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/thumb/1x/63-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.webp",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/thumb/2x/125-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.webp",
+            "https://images.theurge.com/ssense/595Mps7EPUm08j-NOkt9O-fx-M8=/thumb/3x/188-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-1.webp"
+          ],
+          [
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/thumb/1x/55-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.webp",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/thumb/2x/110-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.webp",
+            "https://images.theurge.com/ssense/-hLtoNSLky66_nh-LdiPtQgDoLA=/thumb/3x/165-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-2.webp"
+          ],
+          [
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/thumb/1x/60-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.webp",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/thumb/2x/119-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.webp",
+            "https://images.theurge.com/ssense/AxdiGUumYV4nRsnGUOojfQdKHBs=/thumb/3x/179-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-3.webp"
+          ],
+          [
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/thumb/1x/61-272/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.webp",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/thumb/2x/122-544/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.webp",
+            "https://images.theurge.com/ssense/F-BbZArBpd83xBCvGqv0g0Czuto=/thumb/3x/183-816/taupe-kwaidan-editions-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-4.webp"
+          ]
+        ],
+        "e_is_free_returns": true,
+        "e_is_free_shipping": false,
+        "e_item_code": "5996911",
+        "e_material": "material-jersey",
+        "e_payment_options": [
+          "paypal"
+        ],
+        "e_product_name": "SSENSE Exclusive Taupe Wide Open Neck Dress",
+        "e_retailer_display_domain": "ssense.com",
+        "e_retailer_display_name": "SSENSE",
+        "e_retailer_facet_name": "SSENSE",
+        "e_retailer_industry": "fashion",
+        "e_retailer_short_id": "ss",
+        "e_retailer_type": "mid",
+        "e_returns_link": "https://www.ssense.com/en-au/customer-service/return-policy",
+        "e_returns_period": [
+          14
+        ],
+        "e_shipping_deals": [
+          "free-returns"
+        ],
+        "e_shipping_link": "https://www.ssense.com/en-au/customer-service/shipping",
+        "e_subcat": [
+          "clothing-dresses-maxi-dresses"
+        ],
+        "friendly_alternates": {
+          "en-au": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss",
+          "en-gb": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss",
+          "en-nz": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss",
+          "en-us": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss",
+          "en-za": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss"
+        },
+        "friendly_canonical": "taupe-kwaidan-editions-ssense-exclusive-taupe-wide-open-neck-dress-5996911-ss",
+        "gender": "female",
+        "hreflangs": [
+          "en-de",
+          "en-es",
+          "en-it",
+          "en-nl",
+          "en-us",
+          "en-zz"
+        ],
+        "item_code": "5996911",
+        "long_description": "Long sleeve stretch viscose and nylon-blend jersey long dress in taupe. Scoop neck collar. Thumb opening at cuffs. Supplier color: Taupe",
+        "product_name": "Kwaidan Editions SSENSE Exclusive Taupe Wide Open Neck Dress",
+        "retailer_code": "enus-ssense",
+        "retailer_price": 1025,
+        "retailer_url": "https://www.ssense.com/en-us/women/product/kwaidan-editions/ssense-exclusive-taupe-wide-open-neck-dress/5996911",
+        "sku_code": "WD040",
+        "updated_at": "2020-10-05T13:50:43.480+00:00"
+      }
+    }
+  ],
+  "meta": {
+    "aggregations": {
+      "brands": null,
+      "categories": null,
+      "colors": null,
+      "countries": null,
+      "max_price": 0,
+      "offers": null,
+      "payments": null,
+      "retailers": null,
+      "sales": null
+    },
+    "meta": {
+      "pageSize": 20,
+      "response_type": "search-response-normal",
+      "total": 102983
+    }
+  }
+}
