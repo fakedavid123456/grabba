@@ -1,4 +1,4 @@
-# Python Developer / Tech Lead - Technical Challenge | MarTech
+# Technical Challenge
 
 ## Part 1
 ```bash
