@@ -7,11 +7,15 @@ from scrapy import Item, Field
 
 
 class ProductItem(Item):
+    # product data
     title = Field()
-    price = Field()
     sale_price = Field()
+    full_price = Field()
     description = Field()
     brand = Field()
     category = Field()
     gender = Field()
+
+    # metadata
+    url = Field()
 

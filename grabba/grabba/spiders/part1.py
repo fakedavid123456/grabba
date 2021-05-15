@@ -1,38 +1,33 @@
-import json
-
 import scrapy
-from scrapy.http import Request
+from scrapy.linkextractors import LinkExtractor
+from scrapy.spiders import CrawlSpider, Rule
 from scrapy.loader import ItemLoader
-from scrapy.item import Item, Field
+from itemloaders.processors import Join, MapCompose
 
 from grabba.items import ProductItem
 
 
-class Part1Spider(scrapy.Spider):
+class Part1Spider(CrawlSpider):
     name = 'part1'
-    allowed_domains = ['api.theurge.com']
+    allowed_domains = ['theurge.com']
+    start_urls = ['https://theurge.com/women/search/?cat=clothing-dresses']
 
-    def start_requests(self):
-        for i in range(1, 16):
-            url = f"https://api.theurge.com.au/search-results?page={i}&currency=AUD&cat=clothing-tops&gender=female&language=en&country=au&client=theurge"
-            request = Request(url)
-            yield request
+    rules = (
+        Rule(LinkExtractor(allow='/women/search/')),
+        Rule(LinkExtractor(allow='/product/'), callback='parse_item')
+    )
 
+    def parse_item(self, response):
+        item = ProductItem()
 
-    def parse(self, response):
-        data = json.loads(response.text)["data"]
-        for d in data:
-            item = ProductItem()
-            l = ItemLoader(item=item, response=response)
-            l.add_value("title", d["attributes"]["product_name"])
-            l.add_value("price", d["attributes"]["retailer_price"])
-            if "sale_price" in d["attributes"]:
-                l.add_value("sale_price", d["attributes"]["sale_price"])
-            l.add_value("description", d["attributes"]["long_description"])
-            l.add_value("brand", d["attributes"]["e_brand_formatted"])
-            l.add_value("category", d["attributes"]["e_cat_l2"][0])
-            if "gender" in d["attributes"]:
-                l.add_value("gender", d["attributes"]["gender"])
+        l = ItemLoader(item=item, response=response)
+        l.add_css("title", "span._3mRKt::text", Join(), MapCompose(str.strip))
+        l.add_css("sale_price", "div.eP0wn._26-lJ._28iFq::text", Join(), MapCompose(str.strip), re='[,.0-9]+')
+        l.add_css("full_price", "span._2plVT._35rbh::text", re="[,.0-9]+")
+        l.add_css("description", "div._34YUR._1K7NF > span::text", MapCompose(str.strip))
+        l.add_css("brand", "h1._1psEi > a::text")
+        l.add_css("category", "li._1Hb_0:nth-child(4) > a > span::text")
 
-            yield l.load_item()
+        l.add_value("url", response.url)
 
+        return l.load_item()
