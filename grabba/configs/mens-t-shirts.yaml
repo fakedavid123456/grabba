@@ -1,0 +1,21 @@
+allowed_domains:
+  - "theurge.com"
+category: "men's t-shirts"
+gender: "male"
+start: "https://theurge.com/men/search/?cat=clothing-t-shirts"
+index_pages: "/men/search/"
+detail_pages: "/product/"
+attributes:
+  - name: "title"
+    selector: "span._3mRKt::text"
+  - name: "sale_price"
+    selector: "div.eP0wn._26-lJ._28iFq::text"
+  - name: "full_price"
+    selector: "span._2plVT._35rbh::text"
+  - name: "description"
+    selector: "div._34YUR._1K7NF > span::text"
+  - name: "brand"
+    selector: "h1._1psEi > a::text"
+  - name: "category"
+    selector: "li._1Hb_0:nth-child(4) > a > span::text"
+
