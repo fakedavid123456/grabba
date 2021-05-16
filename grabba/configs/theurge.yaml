@@ -1,9 +1,12 @@
+name: "theurge.com"
 allowed_domains:
   - "theurge.com"
-category: "women's dresses"
-gender: "female"
-start: "https://theurge.com/women/search/?cat=clothing-dresses"
-index_pages: "/women/search/"
+start_pages: 
+  - "https://theurge.com/men/search/?cat=clothing-t-shirts"
+  - "https://theurge.com/women/search/?cat=clothing-dresses"
+index_pages: 
+  - "/men/search/"
+  - "/women/search/"
 detail_pages: "/product/"
 attributes: 
   - name: "title"
@@ -28,7 +31,23 @@ attributes:
     selector: "h1._1psEi > a::text"
     processors:
       - "strip"
+  - name: "gender"
+    selector: "li._1Hb_0:nth-child(1) > a > span::text"
+    processors:
+      - "strip"
   - name: "category"
+    selector: "li._1Hb_0:nth-child(3) > a > span::text"
+    processors:
+      - "strip"
+  - name: "sub_category"
     selector: "li._1Hb_0:nth-child(4) > a > span::text"
     processors:
       - "strip"
+  - name: "sub_sub_category"
+    selector: "li._1Hb_0:nth-child(5) > a > span::text"
+    processors:
+      - "strip"
+  - name: retailer
+    selector: "a.YLflv > strong::text"
+    processors:
+      - strip
