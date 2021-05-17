@@ -7,8 +7,8 @@ from itemloaders.processors import Join, MapCompose
 from grabba.items import ProductItem
 
 
-class Part1Spider(CrawlSpider):
-    name = 'part1'
+class SimpleSpider(CrawlSpider):
+    name = 'simplespider'
     allowed_domains = ['theurge.com']
     start_urls = ['https://theurge.com/women/search/?cat=clothing-dresses']
 

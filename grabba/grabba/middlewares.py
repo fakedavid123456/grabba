@@ -4,6 +4,7 @@
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
+from scrapy.exceptions import NotConfigured
 
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
@@ -64,6 +65,9 @@ class GrabbaDownloaderMiddleware:
     @classmethod
     def from_crawler(cls, crawler):
         # This method is used by Scrapy to create your spiders.
+        if not crawler.settings.getbool('DOWNLOAD_LATENCY_ENABLED'):
+            raise NotConfigured
+
         s = cls()
         crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)
         return s
@@ -87,6 +91,8 @@ class GrabbaDownloaderMiddleware:
         # - return a Response object
         # - return a Request object
         # - or raise IgnoreRequest
+        latency = round(request.meta["download_latency"], 3)
+        spider.logger.info(f"Download latency for '{request.url}': {latency}s")
         return response
 
     def process_exception(self, request, exception, spider):

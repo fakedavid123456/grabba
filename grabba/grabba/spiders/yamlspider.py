@@ -10,8 +10,8 @@ from grabba.items import ProductItem
 import yaml
 
 
-class Part2Spider(CrawlSpider):
-    name = 'part2'
+class YamlSpider(CrawlSpider):
+    name = 'yamlspider'
     
     def __init__(self, config):
         with open(config) as f:
