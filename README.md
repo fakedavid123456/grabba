@@ -30,7 +30,7 @@ scrapy crawl yamlspider \
 scrapy crawl yamlspider \
     -s LOG_LEVEL=INFO \
     -s CLOSESPIDER_ITEMCOUNT=300 \
-    -s CATEGORY_STATS_ENABLED=1
+    -s CATEGORY_STATS_ENABLED=1 \
     -s LOGSTATS_INTERVAL=10 \
     -a config=configs/theurge.yaml \
     -o output/theurge.jl
