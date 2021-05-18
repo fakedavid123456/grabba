@@ -1,4 +1,5 @@
 import scrapy
+from scrapy.item import Item
 from scrapy.http import Request
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
@@ -29,7 +30,7 @@ class YamlSpider(CrawlSpider):
             yield Request(url)
 
     def parse_item(self, response):
-        item = scrapy.Item()
+        item = Item()
         l = ItemLoader(item=item, response=response)
         
         for a in self.config["attributes"]:
@@ -53,4 +54,3 @@ class YamlSpider(CrawlSpider):
         l.add_value("url", response.url)
 
         return l.load_item()
-
