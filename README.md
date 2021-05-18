@@ -25,7 +25,7 @@ scrapy crawl yamlspider \
     -a config=configs/theurge.yaml \
     -o output/theurge.jl
 ```
-## Part 3 - category stats at interval
+## Part 4 - category stats at interval
 ```bash
 scrapy crawl yamlspider \
     -s LOG_LEVEL=INFO \
