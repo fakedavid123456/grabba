@@ -36,10 +36,10 @@ class CategoryStats:
 
     def item_scraped(self, item, response, spider):
         key = item["gender"][0] if "gender" in item else "Unknown"
-        key += "/" + (item["category"][0] if "category" in item else "Unknown")
+        key += "/" + (item["category"][0] if "category" in item else "None")
         self.stats[key] += 1
-        key += "/" + (item["sub_category"][0] if "sub_category" in item else "Unknown")
-        key += "/" + (item["sub_sub_category"][0] if "sub_sub_category" in item else "Unknown")
+        key += "/" + (item["sub_category"][0] if "sub_category" in item else "None")
+        key += "/" + (item["sub_sub_category"][0] if "sub_sub_category" in item else "None")
         self.detailed_stats[key] += 1
 
     def log(self, spider, detailed=False):
