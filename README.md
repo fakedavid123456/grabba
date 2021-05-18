@@ -1,5 +1,15 @@
 # Technical Challenge
 
+## Setup
+```
+git clone https://github.com/fakedavid123456/grabba.git
+cd grabba
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+cd grabba
+```
+
 ## Part 1 - simple spider
 ```bash
 scrapy crawl simplespider \
